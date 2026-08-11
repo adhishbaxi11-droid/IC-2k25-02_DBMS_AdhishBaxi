@@ -1,2 +1,0 @@
-1. Create a simple table "countries".
---> create table countries(column_id int, country_name varchar(30), region_id int);
